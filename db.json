@@ -1,0 +1,32 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "url": "https://image.shutterstock.com/image-photo/white-swan-foggy-lake-dawn-260nw-497586220.jpg",
+      "title": "Swan",
+      "content": "this is a bird",
+      "heading": "the epitome of beauty"
+    },
+    {
+      "id": 2,
+      "url": "https://image.shutterstock.com/image-photo/white-swan-foggy-lake-dawn-260nw-497586220.jpg",
+      "title": "Swan",
+      "content": "this is a bird",
+      "heading": "the epitome of beauty"
+    },
+    {
+      "id": 3,
+      "url": "https://image.shutterstock.com/image-photo/white-swan-foggy-lake-dawn-260nw-497586220.jpg",
+      "title": "Swan",
+      "content": "this is a bird",
+      "heading": "the epitome of beauty"
+    },
+    {
+      "id": 4,
+      "url": "https://image.shutterstock.com/image-photo/white-swan-foggy-lake-dawn-260nw-497586220.jpg",
+      "title": "Swan",
+      "content": "this is a bird",
+      "heading": "the epitome of beauty"
+    }
+  ]
+}
